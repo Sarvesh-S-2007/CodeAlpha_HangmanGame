@@ -3,12 +3,12 @@ A classic text-based Hangman Game built in Python as part of the CodeAlpha Pytho
 
 🧠 Concepts Used
 
-random.choice() for word selection
-while loop for the game loop
-if-elif-else for guess validation and win/lose logic
-set for tracking guessed letters
-list for wrong guesses
-String iteration and membership testing
-ASCII art for visual feedback
-Functions for clean code organisation
+*random.choice() for word selection
+*while loop for the game loop
+*if-elif-else for guess validation and win/lose logic
+*set for tracking guessed letters
+*list for wrong guesses
+*String iteration and membership testing
+*ASCII art for visual feedback
+*Functions for clean code organisation
 
